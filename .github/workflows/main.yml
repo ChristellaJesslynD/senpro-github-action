@@ -65,5 +65,3 @@ jobs:
               npm install;
               npm run build;
             }
-
-#hello
